@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+_privateconfig.py
+privateconfig.py
+fails_streams.txt
+__pycache__/
+prueba.py
+=======
+_privateconfig.py
+privateconfig.py
+fails_streams.txt
+ORDER_TRADE_UPDATE.txt
+fails_streams.txt
+trades
+respaldos
+__pycache__/
+Viejos/
+>>>>>>> 3b87cef4205a94fddcf5465567f3131b0236bd34
